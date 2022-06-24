@@ -173,7 +173,14 @@ do {
   while (contador !==0);
   return numero + resultado
 }
-
+/* let i =1;
+do {
+  i++;
+  numero +=5;
+}
+while (i<=8);
+return numero;
+ */
 
 // No modificar nada debajo de esta línea
 // --------------------------------
